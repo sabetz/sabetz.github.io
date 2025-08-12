@@ -82,12 +82,6 @@ work:
       Led junior analysts, collaborated with clients on damages claims, redesigned internal Excel
       tools to improve efficiency, standardized valuation methods, and implemented remote-friendly procedures.
 
----
-
-## About Me
-
-Sarah Betz joined Stony Brook University’s Economics PhD program in Fall 2022. She holds a bachelor’s degree in Economics and Mathematics from the University of California, Santa Barbara. Prior to starting her PhD, Sarah worked at an economic consulting firm and earned a master’s degree in Economics from Rutgers University. She is currently focusing her research on migration and networks. Outside of academics, Sarah enjoys hiking, running, and exploring bookstores.
-
 # ===================== OPTIONAL SECTIONS FOR LATER =====================
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -162,4 +156,11 @@ Sarah Betz joined Stony Brook University’s Economics PhD program in Fall 2022.
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 # ========================================================================
+
+
+---
+
+## About Me
+
+Sarah Betz joined Stony Brook University’s Economics PhD program in Fall 2022. She holds a bachelor’s degree in Economics and Mathematics from the University of California, Santa Barbara. Prior to starting her PhD, Sarah worked at an economic consulting firm and earned a master’s degree in Economics from Rutgers University. She is currently focusing her research on migration and networks. Outside of academics, Sarah enjoys hiking, running, and exploring bookstores.
 
