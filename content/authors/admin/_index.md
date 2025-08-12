@@ -32,58 +32,38 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: "mailto:SarahABetz@gmail.com"
+    label: Email
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: "https://www.linkedin.com/in/sarahbetz/"
+    label: LinkedIn
+  - icon: brands/github
+    url: "https://github.com/sabetz"
+    label: GitHub
 
+# Research interests (optional list)
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Migration
+  - Networks
+  - Labor Economics
+  - Economic Theory
 
+# Education (from your CV)
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MA Economics
+    institution: Rutgers University
+    date_start: 2016-09-01
+    date_end: 2017-05-31
+    # summary: >
+      # GPA: 3.83. Coursework included Statistical Analysis, Econometrics (cross-sectional & panel),
+      # Mathematical Economics, Monetary Theory & Policy, and Game Theory.
+  - area: BA Economics (major), Mathematics (minor)
+    institution: University of California, Santa Barbara
+    date_start: 2011-09-01
+    date_end: 2014-06-15
+    # summary: >
+      # Coursework included Econometrics, Labor Economics, Game Theory, Calculus sequence,
+      # Linear Algebra, Differential Equations, Number Theory, and Topology.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -184,4 +164,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sarah Betz joined Stony Brook University’s Economics PhD program in Fall 2022. She holds a bachelor’s degree in Economics and Mathematics from the University of California, Santa Barbara. Prior to starting her PhD, Sarah worked at an economic consulting firm and earned a master’s degree in Economics from Rutgers University. She is currently focusing her research on migration and networks. Outside of academics, Sarah enjoys hiking, running, and exploring bookstores.
