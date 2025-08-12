@@ -81,6 +81,8 @@ work:
       Led junior analysts, collaborated with clients on damages claims, redesigned internal Excel
       tools to improve efficiency, standardized valuation methods, and implemented remote-friendly procedures.
 
+---
+
 ## About Me
 
 Sarah Betz joined Stony Brook University’s Economics PhD program in Fall 2022. She holds a bachelor’s degree in Economics and Mathematics from the University of California, Santa Barbara. Prior to starting her PhD, Sarah worked at an economic consulting firm and earned a master’s degree in Economics from Rutgers University. She is currently focusing her research on migration and networks. Outside of academics, Sarah enjoys hiking, running, and exploring bookstores.
