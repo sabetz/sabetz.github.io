@@ -52,11 +52,18 @@ education:
     institution: Rutgers University
     date_start: 2016-09-01
     date_end: 2017-05-31
+    summary: >
+    #  GPA: 3.83. Coursework included Statistical Analysis, Econometrics (cross-sectional & panel),
+    #  Mathematical Economics, Monetary Theory & Policy, and Game Theory.
 
   - area: BA in Economics, Minor in Mathematics
     institution: University of California, Santa Barbara
     date_start: 2011-09-01
     date_end: 2014-06-15
+    summary: >
+    #  GPA: 3.52. Coursework included Statistics with Business and Economic Applications, Econometrics,
+    #  Labor Economics, Game Theory, Calculus sequence, Linear Algebra, Differential Equations,
+    #  Number Theory, and Topology.
 
 # Work experience (from your CV — add when ready)
 work:
