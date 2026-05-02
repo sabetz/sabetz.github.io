@@ -1,0 +1,20 @@
+{{/* Custom gallery shortcode — displays images from content/gallery/photos/ in a responsive grid */}}
+{{- $images := .Page.Resources.Match "photos/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}" -}}
+{{- if $images -}}
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 my-8">
+  {{- range $images -}}
+    {{- $thumb := .Fill "600x600 Center" -}}
+    {{- $full := .Resize "1600x" -}}
+    <a href="{{ $full.RelPermalink }}" class="block overflow-hidden rounded-lg shadow hover:shadow-xl transition-shadow" target="_blank" rel="noopener">
+      <img src="{{ $thumb.RelPermalink }}"
+           alt="{{ .Name }}"
+           width="{{ $thumb.Width }}"
+           height="{{ $thumb.Height }}"
+           loading="lazy"
+           class="w-full aspect-square object-cover hover:scale-105 transition-transform duration-300" />
+    </a>
+  {{- end -}}
+</div>
+{{- else -}}
+<p class="text-gray-500 italic my-8 text-center">No photos yet — add images to <code>content/gallery/photos/</code> to populate the gallery.</p>
+{{- end -}}

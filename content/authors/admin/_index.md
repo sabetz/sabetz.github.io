@@ -20,12 +20,14 @@ organizations:
   - name: Stony Brook University
     url: https://www.stonybrook.edu/
 
-# Social profiles (optional - add if you'd like)
-# profiles:
-#   - icon: brands/github
-#     url: https://github.com/sabetz
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/your-id
+# Social/contact profiles
+profiles:
+  - icon: at-symbol
+    url: 'mailto:sarah.betz@stonybrook.edu'
+    label: Email
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sarahbetz/
+    label: LinkedIn
 
 # Research Interests (optional)
 interests:
@@ -34,12 +36,6 @@ interests:
 
 # Education
 education:
-  - area: PhD in Economics
-    institution: Stony Brook University
-    date_start: 2022-08-01
-    date_end: ""
-    summary: Fellowship student focusing on migration and networks
-
   - area: MA in Economics
     institution: Rutgers University
     date_start: 2020-08-01
@@ -51,4 +47,4 @@ education:
     date_end: 2019-06-01
 ---
 
-Sarah Betz is a PhD candidate in Economics at Stony Brook University. Her research interests include migration and network dynamics, with a focus on how individual decisions interact with broader economic structures. Prior to her doctoral studies, she worked in economic consulting and earned a master’s degree in Economics from Rutgers University, as well as a bachelor’s degree in Economics and Mathematics from UC Santa Barbara.
+I am a PhD candidate in Economics at Stony Brook University. My research integrates spatial equilibrium models with search-and-matching frameworks to study how individual migration decisions aggregate into broader social and economic structures. Prior to my doctoral studies, I worked in economic consulting and earned a master’s degree in Economics from Rutgers University, as well as a bachelor’s degree in Economics and Mathematics from UC Santa Barbara.

@@ -1,0 +1,21 @@
+# Hugo build output
+/public/
+/resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Hugo modules vendor cache (resolved at build time from go.mod)
+/_vendor/
+
+# Node.js
+/node_modules/
+npm-debug.log*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local Claude Code state
+.claude/

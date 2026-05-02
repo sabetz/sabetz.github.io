@@ -1,0 +1,25 @@
+/* Larger profile photo — responsive */
+
+/* Mobile: keep it reasonable in stacked layout */
+.avatar-wrapper {
+  width: 170px !important;
+  height: 170px !important;
+}
+
+.avatar {
+  max-width: 170px !important;
+  max-height: 170px !important;
+}
+
+/* Tablet and up: go larger */
+@media (min-width: 768px) {
+  .avatar-wrapper {
+    width: 220px !important;
+    height: 220px !important;
+  }
+
+  .avatar {
+    max-width: 220px !important;
+    max-height: 220px !important;
+  }
+}
