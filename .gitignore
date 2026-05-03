@@ -19,3 +19,7 @@ Thumbs.db
 
 # Local Claude Code state
 .claude/
+
+# Scratch/preview files
+.preview-*
+.option-*
