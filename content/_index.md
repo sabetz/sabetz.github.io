@@ -12,9 +12,6 @@ sections:
     content:
       username: admin
       text: ""
-    design:
-      background:
-        color: white
   - block: markdown
     content:
       title: 'Research'
