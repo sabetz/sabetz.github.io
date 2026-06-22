@@ -17,7 +17,7 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        My research integrates spatial equilibrium models with search-and-matching frameworks to understand the co-evolution of geographic migration and social structures. I am specifically interested in how individuals navigate the trade-offs between different matching environments—such as cities or digital platforms—anticipating how local population composition will shape the benefits they receive from social interactions.
+        My research develops models of migration and network formation to study how geographic mobility and social structure co-evolve. I am especially interested in how individuals choose among different matching environments—such as cities, communities, or digital platforms—while anticipating how local population composition shapes the value of social interactions.
     design:
       columns: '1'
   - block: markdown

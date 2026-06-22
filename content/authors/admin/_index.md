@@ -47,4 +47,4 @@ education:
     date_end: 2019-06-01
 ---
 
-I am a PhD candidate in Economics at Stony Brook University. My research integrates spatial equilibrium models with search-and-matching frameworks to study how individual migration decisions aggregate into broader social and economic structures. Prior to my doctoral studies, I worked in economic consulting and earned a master’s degree in Economics from Rutgers University, as well as a bachelor’s degree in Economics and Mathematics from UC Santa Barbara.
+I am a PhD candidate in Economics at Stony Brook University. My research uses search-and-matching models to study how individual migration decisions aggregate into broader social and economic structures. Prior to my doctoral studies, I worked in economic consulting and earned a master’s degree in Economics from Rutgers University, as well as a bachelor’s degree in Economics and Mathematics from UC Santa Barbara.
